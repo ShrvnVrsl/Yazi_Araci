@@ -1,0 +1,16 @@
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\yazi_araci\yazi_araci\bin\Debug\netcoreapp3.1\yazi_araci.exe
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\yazi_araci\yazi_araci\bin\Debug\netcoreapp3.1\yazi_araci.deps.json
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\yazi_araci\yazi_araci\bin\Debug\netcoreapp3.1\yazi_araci.runtimeconfig.json
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\yazi_araci\yazi_araci\bin\Debug\netcoreapp3.1\yazi_araci.runtimeconfig.dev.json
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\yazi_araci\yazi_araci\bin\Debug\netcoreapp3.1\yazi_araci.dll
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\yazi_araci\yazi_araci\bin\Debug\netcoreapp3.1\yazi_araci.pdb
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\yazi_araci\yazi_araci\obj\Debug\netcoreapp3.1\yazi_araci.csprojAssemblyReference.cache
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\yazi_araci\yazi_araci\obj\Debug\netcoreapp3.1\yazi_araci.Form1.resources
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\yazi_araci\yazi_araci\obj\Debug\netcoreapp3.1\yazi_araci.Properties.Resources.resources
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\yazi_araci\yazi_araci\obj\Debug\netcoreapp3.1\yazi_araci.csproj.GenerateResource.cache
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\yazi_araci\yazi_araci\obj\Debug\netcoreapp3.1\yazi_araci.AssemblyInfoInputs.cache
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\yazi_araci\yazi_araci\obj\Debug\netcoreapp3.1\yazi_araci.AssemblyInfo.cs
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\yazi_araci\yazi_araci\obj\Debug\netcoreapp3.1\yazi_araci.csproj.CoreCompileInputs.cache
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\yazi_araci\yazi_araci\obj\Debug\netcoreapp3.1\yazi_araci.dll
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\yazi_araci\yazi_araci\obj\Debug\netcoreapp3.1\yazi_araci.pdb
+C:\Users\azer1\OneDrive\Belgeler\Şerivan\çalışmalar\yazi_araci\yazi_araci\obj\Debug\netcoreapp3.1\yazi_araci.genruntimeconfig.cache
